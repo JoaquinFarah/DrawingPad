@@ -1,0 +1,11 @@
+D:\Virtusway\Repos\DrawingPad\bin\Debug\DrawingPad.exe.config
+D:\Virtusway\Repos\DrawingPad\bin\Debug\DrawingPad.exe
+D:\Virtusway\Repos\DrawingPad\bin\Debug\DrawingPad.pdb
+D:\Virtusway\Repos\DrawingPad\obj\Debug\DrawingPad.csproj.AssemblyReference.cache
+D:\Virtusway\Repos\DrawingPad\obj\Debug\DrawingPad.csproj.SuggestedBindingRedirects.cache
+D:\Virtusway\Repos\DrawingPad\obj\Debug\DrawingPad.Form1.resources
+D:\Virtusway\Repos\DrawingPad\obj\Debug\DrawingPad.Properties.Resources.resources
+D:\Virtusway\Repos\DrawingPad\obj\Debug\DrawingPad.csproj.GenerateResource.cache
+D:\Virtusway\Repos\DrawingPad\obj\Debug\DrawingPad.csproj.CoreCompileInputs.cache
+D:\Virtusway\Repos\DrawingPad\obj\Debug\DrawingPad.exe
+D:\Virtusway\Repos\DrawingPad\obj\Debug\DrawingPad.pdb
